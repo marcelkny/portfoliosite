@@ -159,7 +159,9 @@
                             </p>
                             <div class="cardbuttons">
                                 <!-- <div class="cardbutton">Demoseite</div> -->
-                                <div class="cardbutton">Github</div>
+                                <!-- <div class="cardbutton">Github</div> -->
+                                <a class="cardbutton" href="https://github.com/marcelkny/portfoliosite" target="_blank">Github</a>
+
                             </div>
                         </div>
                         
